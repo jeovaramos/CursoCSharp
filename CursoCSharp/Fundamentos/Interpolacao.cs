@@ -1,7 +1,7 @@
 ﻿using System;
 namespace CursoCSharp.Fundamentos
 {
-    public class interpolacao
+    public class Interpolacao
     {
         public static void Executar()
         {
