@@ -12,8 +12,10 @@
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Fundamentos\" />
+    <None Remove="EstruturasDeControle\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Fundamentos\" />
+    <Folder Include="EstruturasDeControle\" />
   </ItemGroup>
 </Project>
