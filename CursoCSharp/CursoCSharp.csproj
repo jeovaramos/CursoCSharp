@@ -13,9 +13,11 @@
   <ItemGroup>
     <None Remove="Fundamentos\" />
     <None Remove="EstruturasDeControle\" />
+    <None Remove="ClassesEMetodos\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Fundamentos\" />
     <Folder Include="EstruturasDeControle\" />
+    <Folder Include="ClassesEMetodos\" />
   </ItemGroup>
 </Project>
